@@ -11,10 +11,7 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 
 ## Overview
@@ -35,15 +32,15 @@ Users should be able to:
 - Desktop 
 ![](./screenshot/Desktop-view.JPG)
 
-- Mobile
+- Mobile 
 
 ![](./screenshot/Mobile-view.JPG)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Solution URL here](https://github.com/manishtomarleo21/advice-generator-app-main)
+- [Live site URL here](https://manishtomarleo21.github.io/advice-generator-app-main/)
 
 ## My process
 
@@ -62,9 +59,9 @@ It was a first challenge that i took from FrontEnd Mentor. I learned to work wit
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- GitHub [Manish Tomar](https://github.com/manishtomarleo21?tab=repositories)
+- FrontEnd Mentor [@manishtomarleo21](https://www.frontendmentor.io/profile/yourusername)
+- Twitter [@MaxTomar](https://twitter.com/MaxTomar)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
+
 
